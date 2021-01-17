@@ -40,7 +40,7 @@
 * connectMySQL.java
   > 解析config.ini取得html網址
   
-  > 依照取得的html網址(Http://127.0.0.1/healthy.php)發送request，取得頁面回傳資訊
+  > 依照取得的html網址( Http://127.0.0.1/healthy.php )發送request，取得頁面回傳資訊
   
   > 依照頁面響應資訊分三種：
   

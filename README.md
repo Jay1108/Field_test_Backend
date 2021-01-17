@@ -20,7 +20,8 @@
   * DestinationPort char(10)
   * FQDN char(100)
 * 已完成java連線mysql，後續只需將解析結果組成insert SQL新增至DB
-* 使用java_io.pkts解包pacp，發現解析資料不如預期，後續查找方式無果，原打算使用其他解包方式，因時間不足，故此題無法於時程內完成。
+* 使用java_io.pkts解包pacp，發現解析資料不如預期，
+* 後續打算使用tshark抽檔pcap資料為CSV在解析，因時間不足只能完成一半
 * 連線mysql與解包pcap方式於附件內
 
 ## Test Objectives 3
